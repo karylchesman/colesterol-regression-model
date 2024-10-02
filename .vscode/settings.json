@@ -4,6 +4,7 @@
         "dtype",
         "fisica",
         "nivel",
+        "onehot",
         "sanguineo"
     ]
 }
