@@ -5,6 +5,7 @@
         "fisica",
         "nivel",
         "onehot",
+        "residuos",
         "sanguineo"
     ]
 }
